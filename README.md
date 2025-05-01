@@ -1,57 +1,69 @@
-# Hey there! I'm shlok👋
+# Hey there! I'm [Your Name] 👋
 
-Welcome to my digital playground 💻 — I'm a Software Developer, Startup Founder, and a forever curious mind exploring the worlds of AI, Machine Learning, and Entrepreneurship🚀
+Welcome to my GitHub!  
+I'm a **Software Developer**, **Startup Founder**, and passionate explorer of **AI, Machine Learning**, and **Entrepreneurship**.  
+I turn ideas into code and dreams into digital products 🚀
 
----
-🔍 About Me
-
-- 💻 I love building sleek, functional, and scalable web apps.
-- 🚀 Currently hustling on startup ideas that merge tech + business + creativity.
-- 🧠 Learning more about AI/ML daily and applying it to solve real-world problems.
-- 📢 Also a digital marketing enthusiast — obsessed with growth hacks and conversions!
-- 🧗‍♂️ Big believer in "build fast, learn faster".
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Shlok-Moondra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/shlok-moondra/)
+[![Gmail](https://img.shields.io/badge/Email-Drop%20a%20Hi-red?logo=gmail&style=flat)](shlokmoondra5433@gmail.com)
 
 ---
 
-🛠️ Tech I Use & Love
+## 🔍 About Me
 
- Frontend
-- HTML, CSS, Tailwind CSS
-- JavaScript, React
-
-Backend & Server
-- Node.js, Express.js
-- Supabase, REST APIs
-
-Programming Languages
-- C, C++, Python
-
-Databases
-- SQL, NoSQL (MongoDB, etc.)
-
-Tools
-- Git & GitHub
-- VS Code
+- 💻 Full-stack web developer with a love for clean UI & efficient backend logic
+- 🧠 Exploring the power of **AI/ML** to create smart, scalable solutions
+- 🎯 Founder mindset — blending **tech, marketing**, and **business** for growth
+- 📈 Running digital marketing campaigns & crafting growth strategies
+- 🧠 Currently learning: Advanced AI tools, ML pipelines, and system design
 
 ---
 
-🧑‍🚀 What I’m Up To
+## 🛠️ Tech Stack & Tools
 
-- 🔨 Building cool stuff with modern stacks
-- 🤖 Experimenting with AI & ML tools
-- 📚 Learning, growing, and sharing everything I know
+### 👨‍💻 Languages
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+### 🗃️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-📫 Let's Connect  
+## 🌱 Currently Working On
+- 🧠 AI-powered projects using Python & ML libraries  
+- 🏗️ Full-stack SaaS product for startup founders  
+- 📣 Building a community around tech, business, and digital marketing
 
 ---
 
- Quick Facts
+## 📫 Let’s Connect
+- Shoot me a message on [LinkedIn](https://www.linkedin.com/in/shlok-moondra/)
+- Drop an email at [yourmail@gmail.com](shlokmoondra5433@gmail.com)
 
-- 💡 Passionate about startups, creativity, and solving real problems
-- 🎯 Self-taught and always hungry to learn more
-- 🧠 Loves blending tech, design, and marketing into powerful products
+---
+
+## ⚡ Fun Fact
+I love combining code with strategy to **launch products** that solve real-world problems — and I’m just getting started! 🚀
+
+---
+
+
 
 
 <!---
