@@ -1,7 +1,7 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm shlok 👋
 
 Welcome to my GitHub!  
-I'm a **Software Developer**, **Startup Founder**, and passionate explorer of **AI, Machine Learning**, and **Entrepreneurship**.  
+I'm a **Software Developer** and passionate explorer of **AI, Machine Learning**, and **Entrepreneurship**.  
 I turn ideas into code and dreams into digital products 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Shlok-Moondra)
