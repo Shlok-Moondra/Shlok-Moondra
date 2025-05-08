@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shlok Moondra!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&link=https://https://www.linkedin.com/in/shlok-moondra)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&link=https://https://www.linkedin.com/in/shlok-moondra/)
 ![Email](https://img.shields.io/badge/Email-Mail_Me-red?logo=gmail&style=for-the-badge&link=mailto:shlokmoondra5433@gmail.com)
 ![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge)
 
@@ -63,7 +63,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://https://www.linkedin.com/in/shlok-moondra)
+- 💼 [LinkedIn](https://https://www.linkedin.com/in/shlok-moondra/)
 - 📧 [Email](mailto:shlokmoondra5433@gmail.com)
 - 🐙 [GitHub](https://github.com/yourusername)
 
