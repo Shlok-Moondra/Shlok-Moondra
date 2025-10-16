@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shlok Moondra!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&link=https://https://www.linkedin.com/in/shlok-moondra/)
-![Email](https://img.shields.io/badge/Email-Mail_Me-red?logo=gmail&style=for-the-badge&link=mailto:shlokmoondra5433@gmail.com)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shlok-moondra/)
+[![Email](https://img.shields.io/badge/Email-Mail_Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shlokmoondra5433@gmail.com)
+![GitHub Followers](https://img.shields.io/github/followers/shlokmoondra?label=Follow&style=for-the-badge&color=24292F&logo=github)
 
 ---
 
@@ -65,16 +65,12 @@
 
 ---
 
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://https://www.linkedin.com/in/shlok-moondra/)
-- 📧 [Email](mailto:shlokmoondra5433@gmail.com)
-- 🐙 [GitHub](https://github.com/yourusername)
-
----
-
-⚡ Fun Fact
-I love combining code with strategy to launch products that solve real-world problems — and I’m just getting started! 🚀
+## 📊 GitHub Insights
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shlokmoondra&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokmoondra&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+�
 
 
 
