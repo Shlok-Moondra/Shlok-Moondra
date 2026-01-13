@@ -1,94 +1,110 @@
-# 👋 Hi, I'm **Shlok Moondra**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shlok-moondra/)
-[![Email](https://img.shields.io/badge/Email-Mail_Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shlokmoondra5433@gmail.com)
-![GitHub Followers](https://img.shields.io/github/followers/shlok-moondra?label=Follow&style=for-the-badge&color=24292F&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=shlok-moondra&style=for-the-badge&color=blue)
-
----
-
-## 🚀 About Me
-
-💡 Passionate **Full-Stack Developer** who loves building fast, scalable, and visually engaging digital products.  
-🏗️ Currently building **AI-powered systems** for marketing and real estate growth.  
-🎯 Founder mindset — combining **tech, marketing, and business** to create high-impact products.  
-📊 Experienced in **performance marketing**, automation, and lead generation.  
-🧠 Always learning: advanced AI tools, ML pipelines, and system architecture.  
-⚙️ Mission: to **bridge technology with business strategy** for sustainable scale.
-
----
-
-## 🧩 Tech Arsenal
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7B11F9?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-
-### 🤖 AI / Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🌱 Current Work
-
-- 🧠 Developing **AI-powered automation tools** with Python & ML  
-- 🏗️ Building a **PropTech startup** to transform real estate marketing using AI-driven buyer funnels  
-- 📈 Experimenting with **growth marketing & system design** for scalable digital ecosystems  
-- 💬 Exploring **cross-domain integration** between marketing data and backend systems  
-
----
-
-## 📊 GitHub Analytics
+# Hi, I’m Shlok Moondra
+Full-Stack Engineer | AI Systems Builder | Founder-Mindset Technologist
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shlok-moondra&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-moondra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=shlok-moondra&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/shlok-moondra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/>
+  </a>
+  <a href="mailto:shlokmoondra5433@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/shlok-moondra?label=Followers&style=flat-square&color=2F80ED"/>
+  <img src="https://komarev.com/ghpvc/?username=shlok-moondra&style=flat-square&color=2F80ED"/>
 </p>
 
 ---
 
-## 🧩 GitHub Activity
-- 💡 Contributing to open-source AI and automation projects  
-- 🧱 Building full-stack applications with React, Node.js & MongoDB  
-- 🚀 Exploring integrations between **marketing APIs** and **custom CRM tools**  
-- 🧭 Experimenting with **AI agents** and backend workflow automation  
+## Engineer Summary
+
+I build scalable, production-focused systems with a strong emphasis on clarity, correctness, and long-term maintainability.
+
+- Full-stack developer with a focus on clean architecture and system design
+- Strong interest in AI, ML, and data-driven decision systems
+- Founder mindset with real exposure to business, marketing, and operations
+- Prefer explicit logic, strong typing, and predictable systems over hacks
+- Long-term goal: building technology-driven companies, not just projects
 
 ---
 
-## 🌐 Connect with Me
-📩 **Email:** [shlokmoondra5433@gmail.com](mailto:shlokmoondra5433@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/shlok-moondra](https://www.linkedin.com/in/shlok-moondra/)  
-🐙 **GitHub:** [github.com/shlok-moondra](https://github.com/shlok-moondra)
+## Technology Stack
 
+### Frontend Engineering
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F1C40F?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F80ED?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-0DCAF0?logo=react&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-7B61FF?logo=framer&logoColor=white&style=flat-square)
 
+### Backend Engineering
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-2D2D2D?logo=express&logoColor=white&style=flat-square)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+### AI / Data Science
+![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B&style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-1F2937?logo=pandas&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
+
+### Core Programming Languages
+![C](https://img.shields.io/badge/C-03599C?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-044F88?logo=cplusplus&logoColor=white&style=flat-square)
+
+### Developer Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FE6C37?logo=postman&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-2D2D2D?logo=figma&logoColor=white&style=flat-square)
+
+---
+
+## What I’m Actively Working On
+
+- Building a real estate advisory and consultation company focused on data-driven decision making and long-term asset value
+- Developing a PropTech startup that integrates marketing intelligence, backend systems, and automation
+- Designing internal real estate tools for lead qualification, CRM workflows, and performance tracking
+- Deepening expertise in TypeScript correctness, backend scalability, and system reliability
+- Exploring practical applications of AI and ML in real-world business workflows, not research demos
+
+I deliberately avoid shallow demos.  
+I build systems intended to operate under real usage, real users, and real scale.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shlok-moondra&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-moondra&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=shlok-moondra&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shlok-moondra&theme=github_dark"/>
+</p>
+
+---
+
+## How I Approach Engineering
+
+- Design systems before writing code
+- Use types as contracts, not hints
+- Prefer explicitness over abstraction for its own sake
+- Optimize for maintainability and leverage
+- Build for long-term compounding, not short-term validation
+
+---
+
+## Contact
+
+- Email: shlokmoondra5433@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shlok-moondra
+- GitHub: https://github.com/shlok-moondra
