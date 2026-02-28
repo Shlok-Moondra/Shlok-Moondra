@@ -16,12 +16,12 @@ Full-Stack Engineer | AI Systems Builder | Founder-Mindset Technologist
 
 ## Engineer Summary
 
-I build scalable, production-focused systems with a strong emphasis on clarity, correctness, and long-term maintainability.
+I build scalable, production-oriented systems with a focus on correctness, performance, and long-term maintainability.
 
-- Full-stack developer focused on real-world system design
-- Deep interest in AI, ML, and automation
-- Founder mindset with exposure to business and growth systems
-- Building tools meant to run under real usage and real scale
+- Full-stack engineer with backend-first architecture thinking
+- Experience building systems meant for real users and real scale
+- Strong interest in AI systems, data pipelines, and automation
+- Founder mindset with exposure to business and growth constraints
 
 ---
 
@@ -35,55 +35,67 @@ I build scalable, production-focused systems with a strong emphasis on clarity, 
 ![React](https://img.shields.io/badge/React-0DCAF0?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-7B61FF?logo=framer&logoColor=white&style=for-the-badge)
+
+---
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+---
 
 ### Backend Engineering
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-2D2D2D?logo=express&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
-### Databases
+---
+
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
-### AI / Data Science
+---
+
+### Data Science & AI
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-1F2937?logo=pandas&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
-### Core Programming Languages
-![C](https://img.shields.io/badge/C-03599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-044F88?logo=cplusplus&logoColor=white&style=for-the-badge)
+---
 
-### DevOps & Systems
+### DevOps & Cloud
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-### Developer Tools & Design
+---
+
+### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FE6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-2D2D2D?logo=figma&logoColor=white&style=for-the-badge)
 
 ---
 
 ## What I’m Actively Working On
 
-- Building a real estate advisory and consultation company focused on data-backed decisions
-- Developing a PropTech startup integrating marketing intelligence and backend systems
-- Creating internal real estate tools for CRM automation and lead qualification
-- Applying AI and ML to real operational workflows instead of theoretical demos
-- Strengthening backend scalability and TypeScript correctness across projects
+- Designing backend-heavy systems with clean APIs and data models
+- Building internal tools and platforms for real-world business use cases
+- Applying AI and automation to operational workflows
+- Improving system scalability, caching strategies, and infra reliability
 
 I avoid shallow demos and portfolio padding.  
-I build systems intended for real users and real scale.
+I build systems intended for real usage and long-term evolution.
 
 ---
 
-## GitHub Activity & Commits
+## GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlok-moondra&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shlok-moondra&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
