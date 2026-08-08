@@ -144,3 +144,4 @@ full-stack engineering, and practical AI to create things people genuinely enjoy
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,55:14532D,100:22C55E" alt="Decorative green footer" />
+
