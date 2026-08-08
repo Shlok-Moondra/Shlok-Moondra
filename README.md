@@ -1,154 +1,110 @@
-# Hi, I’m Shlok Moondra
-Full-Stack Engineer | AI Systems Builder | Founder-Mindset Technologist
+<div align="center">
 
-<p align="center">
+# Hi, I'm Shlok Moondra 👋
 
-<a href="https://www.linkedin.com/in/shlok-moondra/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Full-Stack Engineer · AI Systems Builder · Founder-Minded Creator
 
-<a href="https://x.com/">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://github.com/shlok-moondra">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br />
 
-<a href="mailto:shlokmoondra5433@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=I+turn+ambitious+ideas+into+shippable+products.;Building+useful+AI+systems+and+great+web+experiences.;Designing%2C+engineering%2C+and+iterating+in+public." alt="Animated introduction" />
 
-</p>
+</div>
 
-<p align="center">
-<img src="https://img.shields.io/github/followers/shlok-moondra?style=for-the-badge&color=8B7355"/>
-<img src="https://komarev.com/ghpvc/?username=shlok-moondra&style=for-the-badge&color=8B7355"/>
-</p>
+<br />
 
----
+## About me
 
-# Engineer Summary
+I'm a full-stack engineer who enjoys the overlap of product thinking, clean engineering, and practical AI. I build fast, thoughtful software—from an early sketch through to a deployed product people can use.
 
-I build scalable, production-oriented systems with a focus on correctness, performance, and long-term maintainability.
+- 🔭 **Building:** AI-powered products and full-stack web experiences
+- 🧠 **Interested in:** applied AI, developer tools, product systems, and startups
+- ⚡ **Working style:** ship small, learn quickly, improve relentlessly
+- 🤝 **Open to:** meaningful collaborations, ambitious product ideas, and open source
 
-- Full-stack engineer with backend-first architecture thinking  
-- Experience building systems meant for real users and real scale  
-- Strong interest in AI systems, data pipelines, and automation  
-- Founder mindset with exposure to business and growth constraints  
+## Selected work
 
----
+<!-- Replace the three examples below with your strongest repositories. Keep this section concise. -->
 
-# Technology Stack
+| Project | What it demonstrates | Explore |
+| :-- | :-- | :-- |
+| **[AI Product / Project Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE)** | A production-minded AI experience with a clear user outcome. | `AI` · `Full stack` |
+| **[Full-Stack Product / Project Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO)** | Thoughtful product design, APIs, databases, authentication, and deployment. | `Web` · `Cloud` |
+| **[Developer Tool / Project Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_THREE)** | Clean engineering, documentation, and a problem worth solving. | `DX` · `Open source` |
 
-## Languages & Frameworks
+> Each pinned repository should answer three questions quickly: **what is it, why does it matter, and how can I try it?**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E3A5F?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-1B4332?style=for-the-badge&logo=node.js&logoColor=4CAF50)
-![Express](https://img.shields.io/badge/Express-1C1C1C?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B3D2E?style=for-the-badge&logo=fastapi&logoColor=00C896)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge&logoColor=white)
-![Vanilla CSS](https://img.shields.io/badge/CSS-1E40AF?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-3A2C2C?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![C](https://img.shields.io/badge/C-1E3A5F?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-1E3A5F?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Toolbox
 
----
+<div align="center">
 
-## AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,docker,aws,git,github,figma&perline=8" alt="Technology stack: TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, MongoDB, Redis, Docker, AWS, Git, GitHub, Figma" />
 
-![OpenAI](https://img.shields.io/badge/OpenAI-2D1B69?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1A1A2E?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-16213E?style=for-the-badge&logo=numpy&logoColor=4CC9F0)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3D2C2E?style=for-the-badge)
+<br /><br />
 
----
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 
-## APIs & Microservices
+</div>
 
-![REST API](https://img.shields.io/badge/REST_API-2C2C2C?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Zookeeper](https://img.shields.io/badge/Zookeeper-4B3F2F?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-5C1D1D?style=for-the-badge&logo=redis&logoColor=white)
+<div align="center"><sub>Data & AI: TensorFlow · Seaborn</sub></div>
 
----
+<details>
+<summary><b>How I build</b></summary>
+<br />
 
-## Databases
+```text
+01  Understand the user and the outcome
+02  Prototype the smallest useful version
+03  Build reliable foundations and a delightful interface
+04  Measure, learn, and ship the next improvement
+```
 
-![MySQL](https://img.shields.io/badge/MySQL-1F3A5F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1B4332?style=for-the-badge&logo=mongodb&logoColor=4CAF50)
-![Firebase](https://img.shields.io/badge/Firebase-3A2C2C?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-1B4332?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+</details>
 
----
+## GitHub activity
 
-## Cloud & DevOps
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-3A2C2C?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-16213E?style=for-the-badge&logo=docker&logoColor=0DB7ED)
-![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=FCC624)
+<!-- Replace YOUR_GITHUB_USERNAME everywhere in this section. -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=CBD5E1&bg_color=0D1117&rank_icon=github" alt="Shlok's GitHub statistics" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=CBD5E1&dates=94A3B8" alt="Shlok's GitHub contribution streak" />
 
----
+<br />
 
-## Tools & Platforms
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=CBD5E1&line=22C55E&point=FFFFFF&area=true&area_color=14532D&hide_border=true&radius=10" alt="Daily GitHub contribution activity chart" />
 
-![Git](https://img.shields.io/badge/Git-3A2C2C?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-4A2C2A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Jira](https://img.shields.io/badge/Jira-1E3A8A?style=for-the-badge&logo=jira&logoColor=white)
+</div>
 
----
+<br />
 
-# What I’m Actively Working On
+<!--
+OPTIONAL: This becomes an animated green contribution snake after you add the
+workflow in .github/workflows/snake.yml (included separately) and enable Actions.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving through GitHub contribution grid" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
 
-- Designing backend-heavy systems with clean APIs and data models  
-- Building internal tools and platforms for real-world business use cases  
-- Applying AI and automation to operational workflows  
-- Improving system scalability, caching strategies, and infra reliability  
+## Let's build something useful
 
-I avoid shallow demos and portfolio padding.  
-I build systems intended for real usage and long-term evolution.
+If you're working on a product, an AI workflow, or an idea that needs momentum, I'd love to connect.
 
----
+<div align="center">
 
-# GitHub Stats
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL.com">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">Email</a>
 
-<p align="center">
+<br /><br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shlok-moondra&show_icons=true&theme=github_dark&hide_border=true"/>
+<sub>Built with curiosity, care, and a bias toward shipping.</sub>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-moondra&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-moondra&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shlok-moondra/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://x.com/">
-<img src="https://img.shields.io/badge/X-111111?logo=x&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/shlok-moondra">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-</a>
-
-</p>
+</div>
