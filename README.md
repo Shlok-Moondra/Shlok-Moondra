@@ -1,147 +1,84 @@
-<!-- GitHub profile README for Shlok Moondra -->
+<h1 align="center">Hi, I'm Shlok Moondra 👋</h1>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:14532D,100:22C55E&text=SHLOK%20MOONDRA&fontColor=F8FAFC&fontSize=48&fontAlignY=36&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20BUILDER%20%E2%80%A2%20FOUNDER-MINDED&descAlignY=57&descSize=14&animation=twinkling" alt="Shlok Moondra — Full-Stack Engineer, AI Systems Builder, Founder-Minded" />
+<p align="center">
+Founder @ SM Digital Media | Final-Year BCA Student | Builder of ML/AI systems and B2B growth infrastructure
+</p>
 
-  <a href="https://github.com/Shlok-Moondra"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=22C55E" alt="Shlok on GitHub" /></a>
-  <a href="https://in.linkedin.com/in/shlok-moondra"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E" alt="Shlok on LinkedIn" /></a>
-  <a href="https://github.com/Shlok-Moondra?tab=repositories"><img src="https://img.shields.io/badge/Featured%20projects-0D1117?style=flat-square&logo=github&logoColor=22C55E" alt="Browse Shlok's projects" /></a>
-  <a href="mailto:shlokmoondra5433@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email Shlok" /></a>
+<p align="center">
+Currently deep in agentic AI, RAG pipelines, and multi-agent systems, with a growing focus on cybersecurity as the natural next layer to secure what I build.
+</p>
 
-  <br /><br />
+---
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=680&lines=I+build+products+that+move+ideas+forward.;From+AI+workflows+to+polished+web+experiences.;Think+clearly.+Build+beautifully.+Ship+often." alt="I build products that move ideas forward" />
-</div>
+### 🏆 Hackathons
 
-<br />
+- **AceHack 2026** — Nationally Selected
+- **DevSummit 2025** — Runner-Up
 
-<div align="center">
+---
 
-```text
-I turn ambitious ideas into useful, reliable software — blending product instinct,
-full-stack engineering, and practical AI to create things people genuinely enjoy using.
-```
+### 🧠 What I'm exploring right now
 
-</div>
+- Agentic AI and multi-agent orchestration
+- RAG pipelines and vector search infrastructure
+- Fine-tuning open-source LLMs for domain-specific tasks
+- Application security and threat modeling for AI-integrated systems
 
-<br />
+---
 
-## `01` — What I build
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>✦ AI products</h3>
-      <sub>Useful AI systems with clear workflows, thoughtful UX, and real-world guardrails.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✦ Full-stack apps</h3>
-      <sub>Fast, durable web products — from responsive interfaces to APIs, data, and deployment.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✦ Zero-to-one ideas</h3>
-      <sub>Focused prototypes that turn uncertainty into something customers can see, test, and use.</sub>
-    </td>
-  </tr>
-</table>
+**Web Development**
 
-## `02` — Technology, by craft
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Uvicorn-2E7D32?style=for-the-badge&logo=gunicorn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-<details open>
-<summary><b>Interface & product experience</b></summary>
-<br />
+**Data Science**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Figma" />
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<br />
-<sub><b>TypeScript</b> · React · Next.js · Tailwind CSS · UI systems · Figma</sub>
-</details>
+**Machine Learning / AI**
 
-<details open>
-<summary><b>Backend, data & infrastructure</b></summary>
-<br />
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,redis,docker,aws,git,github&theme=dark" alt="Node.js, Python, PostgreSQL, MongoDB, Redis, Docker, AWS, Git, GitHub" />
+**DevOps / Cloud / Tools**
 
-<br />
-<sub><b>Node.js</b> · Python · APIs · PostgreSQL · MongoDB · Redis · Docker · AWS</sub>
-</details>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
 
-<details open>
-<summary><b>AI, machine learning & insight</b></summary>
-<br />
+---
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22C55E" alt="Python" />
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=4C72B0" alt="Seaborn" />
+### 📫 Connect with me
 
-<br /><br />
-<sub><b>TensorFlow</b> for ML systems · <b>Seaborn</b> for clear, evidence-led data visualization</sub>
-</details>
-
-<br />
-
-## `03` — Featured builds
-
-<div align="center">
-  <a href="https://github.com/Shlok-Moondra/AI-meeting-summarizer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shlok-Moondra&repo=AI-meeting-summarizer&bg_color=0D1117&title_color=22C55E&text_color=CBD5E1&icon_color=22C55E&hide_border=true" alt="AI Meeting Summarizer" />
-  </a>
-  <a href="https://github.com/Shlok-Moondra/Supply-chain-APP">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shlok-Moondra&repo=Supply-chain-APP&bg_color=0D1117&title_color=22C55E&text_color=CBD5E1&icon_color=22C55E&hide_border=true" alt="Farm to Fabric supply-chain platform" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Shlok-Moondra/Stroke-Predictor">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shlok-Moondra&repo=Stroke-Predictor&bg_color=0D1117&title_color=22C55E&text_color=CBD5E1&icon_color=22C55E&hide_border=true" alt="Stroke Risk Predictor" />
-  </a>
-</div>
-
-<p align="center"><sub>AI meeting intelligence · Real-time B2B marketplace · End-to-end machine learning system</sub></p>
-
-## `04` — Building in public
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shlok-Moondra&show_icons=true&count_private=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=0D1117&text_color=CBD5E1&icon_color=22C55E&ring_color=22C55E" alt="GitHub contribution statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Shlok-Moondra&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=CBD5E1&dates=64748B" alt="GitHub contribution streak" />
-
-  <br /><br />
-
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok-Moondra&bg_color=0D1117&color=CBD5E1&line=22C55E&point=F8FAFC&area=true&area_color=14532D&hide_border=true&radius=12" alt="Daily GitHub contribution activity" />
-</div>
-
-<br />
-
-<!-- This animation appears after .github/workflows/snake.yml has run once. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shlok-Moondra/Shlok-Moondra/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shlok-Moondra/Shlok-Moondra/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Shlok-Moondra/Shlok-Moondra/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br />
-
-## `05` — The way I work
-
-```text
-  Understand the person using it  →  Define the smallest useful version
-                                     ↓
-  Measure what matters             ←  Build with care, clarity, and speed
-```
-
-<div align="center">
-  <a href="https://github.com/Shlok-Moondra"><b>GitHub</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://in.linkedin.com/in/shlok-moondra"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Shlok-Moondra?tab=repositories"><b>Projects</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:shlokmoondra5433@gmail.com"><b>Start a conversation</b></a>
-
-  <br /><br />
-  <sub>Designed to be understood quickly. Built with a bias toward shipping.</sub>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,55:14532D,100:22C55E" alt="Decorative green footer" />
-
+<p>
+<a href="https://www.linkedin.com/in/shlok-moondra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shlokmoondra5433@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
